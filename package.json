@@ -1,0 +1,23 @@
+{
+  "name": "midterm-exam",
+  "version": "1.0.0",
+  "description": "MIDTERM EXAM",
+  "main": "question2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrianne101203/Midterm-Exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adrianne101203/Midterm-Exam/issues"
+  },
+  "homepage": "https://github.com/Adrianne101203/Midterm-Exam#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
